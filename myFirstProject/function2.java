@@ -1,5 +1,5 @@
 import java.util.*;
-
+// factorial 
 public class function2 {
     public static void printFactorial(int a){
         if(a < 0){
