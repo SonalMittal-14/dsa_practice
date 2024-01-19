@@ -29,7 +29,7 @@ public class Strings {
             System.out.println("not equal");
         }
 
-        String sentence = "my name is sonal";
+        // String sentence = "my name is sonal";
         String name = sentence.substring(7);
         System.out.println(name);
     }
