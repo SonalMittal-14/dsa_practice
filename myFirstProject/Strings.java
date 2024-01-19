@@ -30,7 +30,7 @@ public class Strings {
         }
 
         // String sentence = "my name is sonal";
-        String name = sentence.substring(7);
+        // String name = sentence.substring(7);
         System.out.println(name);
     }
 }
