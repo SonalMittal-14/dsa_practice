@@ -43,5 +43,6 @@ public class StringsBuilders {
             sb1.setCharAt(back, frontChar);
         }
         System.out.println(sb1);
+        System.out.println(sb);
     }    
 }
